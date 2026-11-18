@@ -1,0 +1,17 @@
+{
+    "name": "Life RPG",
+    "short_name": "Life RPG",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#25140C",
+    "theme_color": "#25140C",
+    "description": "할 일을 모험으로 바꾸는 습관 RPG (후원자 전용 웹 버전)",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
+        { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+        { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}
